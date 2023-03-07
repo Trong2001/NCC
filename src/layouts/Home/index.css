@@ -66,3 +66,10 @@
     color: #000000;
     padding-right: 40px;
 }
+
+.footer {
+    position: sticky;
+    top: 100%;
+    padding: 20px 100px;
+    border: 1px solid #DEDEDE;
+}

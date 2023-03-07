@@ -69,6 +69,8 @@ function home() {
           </div>
         </div>
       </div>
+
+      <div className="footer">Copyright © 2021</div>
     </div>
   );
 }
