@@ -1,0 +1,36 @@
+.home {
+    width: 88%;
+    height: 935px;
+    background: #FFFFFF;
+}
+
+.logo {
+    background-image: url('../images/logoNCC1.png');
+    width: 310px;
+    height: 122px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    background-color:#EFEFEF;
+    padding:28px 69px;  
+}
+
+.content-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    padding: 18px;
+    margin-top: 20px;
+}
+
+.content-nd {
+    padding: 20px 16px;
+}

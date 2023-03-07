@@ -1,0 +1,25 @@
+.sidebar {
+    width: 12%;
+    height: 935px;
+    background: #191718;
+    left: 0;
+}
+
+.sb-list {
+    height: 19px;
+    left: 16px;
+    top: 14px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;     
+    padding: 10px 20px;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.active {
+    background: #5C5C5C;
+}
